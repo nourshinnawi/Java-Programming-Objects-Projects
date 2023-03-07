@@ -1,8 +1,0 @@
-Programmer Name: Nour Shinnawi
-Assignment Start: 12/15/18 at 4:00 pm
-Assignment Completion: 12/13/18 at 10:00 pm 
-Total Hours for Assignment: 6 hours
-Comments: Although I probably messed up somewhere,
-this project was a lot less difficult than I expected
-it to be and it was kind of enjoyable. Also, toString
-is really frustrating.
