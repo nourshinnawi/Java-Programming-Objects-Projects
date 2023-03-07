@@ -3,10 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 10/3/18 at 2:00 pm
 Assignment Completion: 10/3/18 at 10:00pm 
 Total Hours for Assignment: 2 hours and 20 minutes
-Comments: I liked that this assignment wasn't very difficult but
-if I were to do it again I would try to remember that I need to 
-have "%d" in the printf. I realize now that I could have finished 
-this assignment faster if I hadn't forgotten it.
 */
 package assignment.pkg2;
 
