@@ -3,13 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 11/3/18 at 5:00 pm
 Assignment Completion: 11/7/18 at 7:30pm 
 Total Hours for Assignment: 4 hours and 30 minutes
-Comments: When I was reading through the
-module about classes it seemed complicated
-and I thought I would have trouble with it. But
-when I did this assignment it wasn't as hard 
-as I anticipated. I feel like I'm having a 
-much easier time understanding these concepts
-in Java than I did while learning C++.
 */
 
 package pjc;
