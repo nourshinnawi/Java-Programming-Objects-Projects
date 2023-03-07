@@ -3,12 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 11/12/18 at 8:00 am
 Assignment Completion: 11/12/18 at 11:00 am 
 Total Hours for Assignment: 3 hours
-Comments: This assignment was not as easy as
-assignment 7a. Although the book mentions BigDecimal
-it doesn't really explain enough to fully understand
-how it should be used. It was more like a summary
-instead of a full explanation and it didn't help
-that much.
 */
 
 package assignment.pkg7b;
