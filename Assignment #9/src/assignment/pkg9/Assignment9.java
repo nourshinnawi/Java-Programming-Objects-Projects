@@ -2,12 +2,7 @@
 Programmer Name: Nour Shinnawi
 Assignment Start: 12/6/18 at 5:00 pm
 Assignment Completion: 12/7/18 at 3:00 pm 
-Total Hours for Assignment: 3 hours and 30 minutes
-Comments: I'm aware that this program isn't very 
-creative but I'm having trouble completely understanding
-abstract classes and interfaces. I wanted to create
-something a little more complicated but I'm not even sure
-if I wrote and used the abstract class and interface correctly.
+Total Hours for Assignment: 3 hours and 30 minutes.
 */
 
 package assignment.pkg9;
