@@ -3,11 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 10/27/18 at 5:00 pm
 Assignment Completion: 10/30/18 at 2:00pm 
 Total Hours for Assignment: 5 hours and 30 minutes
-Comments: I included a lot of methods in this assignment
-because I was trying to get practice using them with arrays.
-I had a hard time trying to pass arrays to functions in C++
-but doing it in Java seemed a lot easier and less complicated
-to understand. 
 */
 package assignment.pkg5;
 
