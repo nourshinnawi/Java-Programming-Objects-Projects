@@ -3,11 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 9/16/18 at 1:00 pm
 Assignment Completion: 9/16/18 at 9:00pm 
 Total Hours for Assignment: 2 hours and 20 minutes
-Comments: The best part about this assignment was that
-the decimal places could be formatted simply using "%.2".
-Its so much easier to format this way than it is trying to use
-setprecision(2) in C++. It may seem simple but I could never
-figure out how to do it the right way.
 */
 package assignment.pkg1;
 
