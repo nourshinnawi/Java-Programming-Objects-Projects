@@ -3,10 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 12/8/18 at 2:00 pm
 Assignment Completion: 12/8/18 at 4:00 pm 
 Total Hours for Assignment: 2 hours
-Comments: This assignment was not as hard
-as I thought it would be and I appreciate 
-that the last assignment before the final
-project was not incredibly complicated.
 */
 
 package assignment.pkg10;
