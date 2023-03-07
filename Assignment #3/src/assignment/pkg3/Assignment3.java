@@ -3,11 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 10/6/18 at 3:00 pm
 Assignment Completion: 10/6/18 at 8:00pm 
 Total Hours for Assignment: 3 hours
-Comments: On this assignment the formating was a little bit 
-of a struggle because I wanted the dollar signs to align and 
-they do up until when the number of days becomes double digits.
-Every number after 9 has the dollar sign shifted over and I 
-couldn't figure out how to format it correctly.
 */
 
 package assignment.pkg3;
