@@ -3,17 +3,6 @@ Programmer Name: Nour Shinnawi
 Assignment Start: 10/16/18 at 3:00 pm
 Assignment Completion: 10/20/18 at 4:00pm 
 Total Hours for Assignment: 8 hours
-Comments: The instructions say to return 
-a string of the factors so I spent a lot of 
-time on this assignment just trying to make 
-it work that way. But I couldn't figure it 
-out and I ended up using Boolean and returning
-sum == number with the factors part in main. 
-Even though it isn't following the directions 
-exactly the output ended up being the same.
-But I understand I probably will not get full
-credit for this assignment because it isn't 
-completely correct.
 */
 
 package assignment.pkg4;
